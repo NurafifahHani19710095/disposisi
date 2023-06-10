@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+$route['about'] = 'welcome/about';
+$route['profile'] = 'welcome/profile';
 /*
 | -------------------------------------------------------------------------
 | URI ROUTING
